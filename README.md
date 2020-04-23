@@ -1,6 +1,6 @@
 # PL_HW2_WHILE
 
-An interpreter for the While language, using python
+An interpreter for the While language, using python 3
 
 I used my code for HW1. In HW1 I used the code in the following link as a reference:
 https://ruslanspivak.com/lsbasi-part7/
