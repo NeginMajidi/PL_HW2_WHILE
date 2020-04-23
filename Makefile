@@ -4,7 +4,7 @@ current_dir := ${CURDIR}
 default: while
 
 while: HW2.py
-	echo 'python $(current_dir)/HW2.py' > while
+	echo 'python3 $(current_dir)/HW2.py' > while
 	chmod u+x while
 
 clean:
